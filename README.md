@@ -1,1 +1,3 @@
-# code-from-scratch-exercises
+# Monty Hall Simulation
+
+This project simulates the Monty Hall problem, a probability puzzle based on a game show scenario. The simulation runs multiple iterations where the contestant decides to "stay" or "switch" after the host reveals a door. Results are displayed with statistics on the number of wins for each strategy and their respective probabilities, highlighting the counterintuitive advantage of switching.
